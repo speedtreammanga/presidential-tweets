@@ -1,6 +1,8 @@
 # Author: Alexandre Fournier-Ahizoune (fournier.afa@gmail.com)
 ## Details
 
+!Important! if a `build` folder does not exist at the root of the project, create one (`mkdir build`).
+
 Install external dependencies by running `yarn install` or `npm install`.
 
 To launch the web app, execute the following command `yarn run dev` or `npm run dev`.
